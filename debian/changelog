@@ -1,0 +1,5 @@
+constantly (15.1.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #843131)
+
+ -- Free Ekanayaka <freee@debian.org>  Fri, 04 Nov 2016 07:39:51 +0000

@@ -1,5 +1,6 @@
 Source: constantly
-Maintainer: Free Ekanayaka <freee@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Free Ekanayaka <freee@debian.org>
 Section: python
 Priority: optional
 Build-Depends: debhelper (>= 9),
@@ -12,6 +13,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/twisted/constantly
 Vcs-Browser: https://anonscm.debian.org/cgit/python-modules/packages/constantly.git
 Vcs-Git: git://anonscm.debian.org/python-modules/packages/constantly.git
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ stretch
 
 Package: python-constantly
 Architecture: all

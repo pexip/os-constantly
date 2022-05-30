@@ -13,7 +13,7 @@ Standards-Version: 3.9.8
 Homepage: https://github.com/twisted/constantly
 Vcs-Browser: https://anonscm.debian.org/cgit/python-modules/packages/constantly.git
 Vcs-Git: git://anonscm.debian.org/python-modules/packages/constantly.git
-XS-Pexip-Upstream: http://ftp.debian.org/debian/ stretch
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ buster
 
 Package: python-constantly
 Architecture: all

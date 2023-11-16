@@ -1,3 +1,9 @@
+constantly (15.1.0-4pexip1) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 09:56:37 +0000
+
 constantly (15.1.0-4) unstable; urgency=medium
 
   [ Debian Janitor ]

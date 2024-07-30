@@ -2,13 +2,18 @@ Source: constantly
 Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Uploaders: Free Ekanayaka <freee@debian.org>
 Section: python
+Testsuite: autopkgtest-pkg-pybuild
 Priority: optional
 Build-Depends: debhelper-compat (= 13),
-               dh-python,
+               dh-sequence-python3,
+               pybuild-plugin-pyproject,
                python3-all,
-               python3-setuptools
-Standards-Version: 3.9.8
+               python3-setuptools,
+               python3-versioneer,
+               python3-twisted <!nocheck>
+Standards-Version: 4.6.2
 Homepage: https://github.com/twisted/constantly
+Rules-Requires-Root: no
 Vcs-Browser: https://salsa.debian.org/python-team/packages/constantly
 Vcs-Git: https://salsa.debian.org/python-team/packages/constantly.git
 

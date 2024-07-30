@@ -12,10 +12,6 @@ Copyright: (c) 2001-2015 Twisted Matrix Laboratories &
         Wilfredo Sánchez
 License: MIT
 
-Files: versioneer.py
-Copyright: (c) 2016 Brian Warner
-License: CC0
-
 Files: debian/*
 Copyright: 2016 Free Ekanayaka <freee@debian.org>
 License: MIT

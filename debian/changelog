@@ -1,3 +1,28 @@
+constantly (23.10.4-2) unstable; urgency=medium
+
+  * Team upload.
+  * Use pybuild-plugin-pyproject.
+  * Switch to autopkgtest-pkg-pybuild.
+
+ -- Colin Watson <cjwatson@debian.org>  Tue, 30 Jul 2024 11:52:30 +0100
+
+constantly (23.10.4-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream version
+    Closes: #1058206
+  * Standards-Version: 4.6.2 (routine-update)
+  * Testsuite: autopkgtest-pkg-python (routine-update)
+  * Build-Depends: s/dh-python/dh-sequence-python3/ (routine-update)
+  * Add salsa-ci file (routine-update)
+  * Rules-Requires-Root: no (routine-update)
+  * watch file standard 4 (routine-update)
+  * Build-Depends: python3-versioneer
+  * Build-Depends: python3-twisted
+  * Drop verioneer from d/copyright
+
+ -- Andreas Tille <tille@debian.org>  Wed, 10 Jan 2024 10:38:12 +0100
+
 constantly (15.1.0-4+pexip24u3) pexip-bookworm; urgency=medium
 
   * New versioning scheme

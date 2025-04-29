@@ -1,3 +1,9 @@
+constantly (23.10.4-2+pexip25u1) pexip-trixie; urgency=medium
+
+  * Initial trixie build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 29 Apr 2025 22:29:13 +0100
+
 constantly (23.10.4-2) unstable; urgency=medium
 
   * Team upload.
